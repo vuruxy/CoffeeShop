@@ -1,0 +1,9 @@
+{
+  "title": "Kaung's Coffee House",
+  "description": "Welcome to my Coffee House! We hope you enjoy our borad selection of premium coffee from all over the world.",
+  "hours": [
+    { "day": "Mon-Fri", "time": "6am to 10pm" },
+    { "day": "Saturday", "time": "7am to 11pm" },
+    { "day": "Sunday", "time": "7am to 10pm" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "header": "Drink Healthy <br> and Natural Coffee",
+    "subtext": "At Htet's coffee, we only make the best coffe and the best cake.",
+    "bg_image": "/images/barista.jpg"
+  },
+  "about": {
+    "header": "Welcome to Htet's Coffe House.",
+    "subtext": "Welcome to my Coffee House! We hope you enjoy our borad selection of premium coffee from all over the world.",
+    "bg_image": "/images/barista2.jpg",
+    "images": [
+      { "image": "/images/coffee.jpg", "caption": "Coffee" },
+      { "image": "/images/tea.jpg", "caption": "Tea" },
+      { "image": "/images/cupcake.jpg", "caption": "Pastries" }
+    ]
+  },
+
+  "team": {
+    "subheader": "Team",
+    "header": "Meet The Team",
+    "img_background": "/images/cafe.jpg",
+    "people": [
+      {
+        "name": "Joe",
+        "image": "/images/person_1.jpg",
+        "quote": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+        "position": "owner"
+      },
+      {
+        "name": "Bob",
+        "image": "/images/person_2.jpg",
+        "quote": "Best Place to chill",
+        "position": "co-owner"
+      }
+    ]
+  },
+  "order": {
+    "subheader": "Order",
+    "header": "Place an Oder",
+    "img_background": "/images/Barista1.jpg"
+  }
+}
